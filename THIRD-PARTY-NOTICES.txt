@@ -1,0 +1,11 @@
+Rasid includes these third-party components, each under its own licence:
+
+- Python 3.13 runtime (folder runtime\), Copyright Python Software Foundation, under the PSF License Agreement.
+  The full text is in LICENSE-Python.txt.
+- Alexandria font (source\web\assets\fonts\Alexandria.ttf), Copyright The Alexandria Project Authors,
+  under the SIL Open Font License, Version 1.1 (https://openfontlicense.org).
+- Inter font (source\web\assets\fonts\Inter.ttf), Copyright The Inter Project Authors,
+  under the SIL Open Font License, Version 1.1 (https://openfontlicense.org).
+
+Optional tools Rasid can use when you install them yourself (not included): Wireshark and Npcap (network rules),
+Claude Code (the Ask Claude button).
